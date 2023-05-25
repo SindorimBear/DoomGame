@@ -22,3 +22,7 @@ The game includes 12 python folders, each handling the required in the game:
 -main
 
 The focus of this upload is included in the 'raycasting' and 'pathfinding' folder.
+
+## Warning
+
+The folder doesn't include all the necessary folders such as the mp3 folders for sound and png files for the npc. This is to show that this is not a complete work and to clearly state that the purpose is to study the ray casting method in python.
